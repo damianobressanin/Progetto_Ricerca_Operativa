@@ -8,3 +8,5 @@ Sono state considerate le preferenze del turista, il tempo a disposizione per il
 Ciò si è tradotto nella risoluzione di un "Orienteering Problem con Time Windows", permettendo di mettere in pratica i concetti teorici appresi nel corso di Ricerca Operativa, come l'utilizzo di euristiche (greedy e ad hoc) e algoritmi di miglioramento (Tabù search, simulated annealing e Destroy and Repair).
 
 La presentazione PowerPoint è piena di animazioni che aiutano a comprendere meglio il funzionamento del codice, pertanto si consiglia di scaricarla.
+
+Link alla presentazione (presente su questo repository): https://github.com/damianobressanin/Progetto_Ricerca_Operativa/blob/main/Presentazione_Progetto_Ricerca_Operativa.pptx
