@@ -1,4 +1,5 @@
 Progetto di gruppo svolto per l'esame di Ricerca Operativa.
+
 Autori: Bressanin Damiano, Cuciniello Claudio e Paulon Luca.
 
 Il progetto consiste nello sviluppo del "core" di un'applicazione per turisti per la pianificazione del percorso ideale di visita delle attrazioni di una città (massimizzazione del gradimento del tour).
